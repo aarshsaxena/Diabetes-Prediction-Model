@@ -1,5 +1,5 @@
 
-# Delhi House Price Prediction
+# Diabetes Prediction Model
 
 Diabetes prediction model predicts that the patient is diabitic or not on the basis of features such as gender, age, hypertension, heart condition, bmi, hemoglobin, blood sugar level. Patient has to enter their above details and the prediction modal works and predict the case of diabetes.
 ## Features
