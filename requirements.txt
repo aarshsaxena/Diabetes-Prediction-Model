@@ -142,9 +142,7 @@ python-dateutil==2.8.2
 python-json-logger==2.0.4
 python-resize-image==1.1.20
 pytz==2023.3
-pywin32==305
-pywin32-ctypes==0.2.2
-pywinpty==2.0.9
+
 PyYAML==6.0
 pyzmq==24.0.1
 qrcode==7.4.2
