@@ -2,5 +2,4 @@ requests==2.25.1
 fastapi==0.85.0
 uvicorn==0.10.3
 gunicorn==20.1.0
-pickle==0.7.5
 json==4.17.3
